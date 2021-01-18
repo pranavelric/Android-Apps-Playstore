@@ -1,0 +1,40 @@
+{
+  "pubg_sticker_app": {
+    "more_apps": [
+      {
+        "app_name": "PubG Stickers",
+        "app_desc": "Download WA Stickers for Free",
+        "app_link": "https://play.google.com/store/apps/details?id=com.professionalcipher.stickers",
+        "app_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
+        "app_rating": 4
+      },
+      {
+        "app_name": "PubG Stickers",
+        "job_title": "Machine Learning Engineer"
+      }
+    ],
+    "advertisement": {
+      "ad_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
+      "ad_link": "https://www.professionalcipher.com/"
+    }
+  },
+  "gulati_sticker_app": {
+    "more_apps": [
+      {
+        "app_name": "PubG Stickers",
+        "app_desc": "Download WA Stickers for Free",
+        "app_link": "https://play.google.com/store/apps/details?id=com.professionalcipher.stickers",
+        "app_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
+        "app_rating": 4
+      },
+      {
+        "app_name": "PubG Stickers",
+        "job_title": "Machine Learning Engineer"
+      }
+    ],
+    "advertisement": {
+      "ad_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
+      "ad_link": "https://www.professionalcipher.com/"
+    }
+  }
+}
