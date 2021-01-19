@@ -1,7 +1,8 @@
 {
   
   
-"app": {
+"apps":[ 
+ {
   "name":"PUBG Stickers",
 "more_apps": [
 {
@@ -31,9 +32,8 @@
 "ad_link": "https://www.professionalcipher.com/"
 }
 },
-  
-  
-"app": {
+
+  {
   "name":"Gulati Stickers",
 "more_apps": [
 {
@@ -56,6 +56,6 @@
 "ad_link": "https://www.professionalcipher.com/"
 }
 },
-  
+],
   
 }
