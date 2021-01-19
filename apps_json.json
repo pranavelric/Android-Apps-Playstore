@@ -1,5 +1,6 @@
 {
-  "pubg_sticker_app": {
+  "app": {
+    "name": "PubG Stickers",
     "more_apps": [
       {
         "app_name": "PubG Stickers",
@@ -28,7 +29,8 @@
       "ad_link": "https://www.professionalcipher.com/"
     }
   },
-  "gulati_sticker_app": {
+  "app": {
+        "name": "PubG Stickers",
     "more_apps": [
       {
         "app_name": "PubG Stickers",
